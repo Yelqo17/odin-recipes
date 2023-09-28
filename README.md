@@ -1,2 +1,2 @@
 # odin-recipes
-I will demonstrate my knowladge od HTML: headings, paragraphs, basic structure etc.
+I will demonstrate my knowladge of HTML: headings, paragraphs, basic structure, images, lists etc.
