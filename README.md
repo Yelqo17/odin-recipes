@@ -5,5 +5,5 @@ I will demonstrate my knowledge of HTML: headings, paragraphs, basic structure, 
 
 website can be seen here
 
-[rock paper scissors game for Odin Project](https://yelqo17.github.io/oculus/).
+[odin-recipes](https://yelqo17.github.io/oculus/).
 
