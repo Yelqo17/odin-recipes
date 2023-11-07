@@ -3,7 +3,7 @@ This is my pet project for Odin course
 
 I will demonstrate my knowledge of HTML: headings, paragraphs, basic structure, etc.
 
-website can be seen here
+website can be seen [here](https://yelqo17.github.io/odin-recipes/).
 
-[odin-recipes](https://yelqo17.github.io/odin-recipes/).
+
 
